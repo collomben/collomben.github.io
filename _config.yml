@@ -30,9 +30,9 @@ twitter_username: ben_collom
 github_username:  collomben
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
